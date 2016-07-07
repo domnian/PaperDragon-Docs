@@ -1,0 +1,5 @@
+site_name: PaperDragon Docs
+docs_dir: .
+theme: readthedocs
+pages:
+- Home: 'index.md'

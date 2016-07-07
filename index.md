@@ -4,7 +4,7 @@ What is PaperDragon?
 ------
 PaperDragon is a Personal fork of the High Performance Spigot Fork known as Paper with small improvements and features added here and there.
 
-PaperDragon contains various [features and changes](features.md), most imported from [Empire Minecraft](https://url.domnian.com/emc), who uses their own custom fork of Paper called [EmpireCraft](https://github.com/starlis/empirecraft).
+PaperDragon contains various [features and changes](features.md), most imported from [Empire Minecraft](https://url.domnian.com/emc) under [MIT](https://opensource.org/licenses/MIT), who uses their own custom fork of Paper called [EmpireCraft](https://github.com/starlis/empirecraft).
 
 Almost everything in PaperDragon is [configurable](config.md).
 

@@ -10,7 +10,7 @@ Almost everything in PaperDragon is [configurable](config.md).
 
 Current Version [![Build Status](https://ci.domnian.com/job/PaperDragon/badge/icon)](https://ci.domnian.com/job/PaperDragon/)
 ------
-PaperDragon actively targets the latest version of Minecraft and those versions can be downloaded [here](https://ci.domnian.com/job/PaperDragon).
+PaperDragon actively targets the latest version of Minecraft and those versions can be downloaded [here](https://ci.domnian.com/job/PaperDragon) (Currently Offline).
 
 ## [Other ways to get PaperDragon are described here](building.md)
 

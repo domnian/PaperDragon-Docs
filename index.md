@@ -22,7 +22,7 @@ Plugin and implementation developers may be interested to [see our code and API]
 
 Support
 ------
-You can get support for PaperDragon at [#paperdragon on Domnian IRC](https://irc.domnian.com/?ch=paperdragon)
+You can get support for PaperDragon at [#willies952002 on Spigot IRC](https://irc.spi.gt/iris/?channels=willies952002)
 
 Please file bug reports on [GitHub](https://url.domnian.com/pdissues)
 
